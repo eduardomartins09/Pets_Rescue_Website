@@ -13,7 +13,6 @@ import 'swiper/css/navigation';
 import { petsformation } from "@/app/utils/utils"
 
 const Pets = () => {
-
   return (
     <div className="p-8" id="pets">
       <h1 className="text-text-blue text-4xl mb-4 font-bold">Nossos Pets</h1>

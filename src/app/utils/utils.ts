@@ -49,6 +49,39 @@ export const helpInformation = [
     },
 ]
 
+export const ongsInformation = [
+    {
+        image: "/ongs-cadastradas.png",
+        fontImg: "https://umbusolidario.com/ongs",
+        textDescriptionOne: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sint eveniet iusto modi earum perferendis non minus? Architecto placeat reprehenderit necessitatibus fugiat, nesciunt quibusdam deleniti officia doloribus vel. Illum totam odit ad quisquam doloribus quam. Sint animi corporis assumenda voluptas autem quod ea similique illo iure ratione quam minima, modi dolores maiores sequi ut minus magnam aliquid, consectetur alias a praesentium iusto sapiente voluptatem? Blanditiis deleniti veritatis tempore modi numquam at totam mollitia asperiores tempora repellat nisi a pariatur quaerat quasi, voluptatibus iste sed? Sunt velit nemo totam at maiores, ipsum necessitatibus molestias hic quasi. Expedita, cumque ratione. Ducimus, esse!",
+        textDescriptionTwo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat quae temporibus assumenda velit sint voluptatem sit omnis magnam aliquid cum impedit, similique, accusamus itaque porro error praesentium repudiandae perferendis numquam vel. Deleniti, recusandae. Assumenda, explicabo alias earum laborum aperiam consequuntur repellat doloribus dicta minima fuga tempora nostrum quia ea."
+    },
+    {
+        image: "/ongs-cadastradas.png",
+        fontImg: "https://umbusolidario.com/ongs",
+        textDescriptionOne: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sint eveniet iusto modi earum perferendis non minus? Architecto placeat reprehenderit necessitatibus fugiat, nesciunt quibusdam deleniti officia doloribus vel. Illum totam odit ad quisquam doloribus quam. Sint animi corporis assumenda voluptas autem quod ea similique illo iure ratione quam minima, modi dolores maiores sequi ut minus magnam aliquid, consectetur alias a praesentium iusto sapiente voluptatem? Blanditiis deleniti veritatis tempore modi numquam at totam mollitia asperiores tempora repellat nisi a pariatur quaerat quasi, voluptatibus iste sed? Sunt velit nemo totam at maiores, ipsum necessitatibus molestias hic quasi. Expedita, cumque ratione. Ducimus, esse!",
+        textDescriptionTwo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat quae temporibus assumenda velit sint voluptatem sit omnis magnam aliquid cum impedit, similique, accusamus itaque porro error praesentium repudiandae perferendis numquam vel. Deleniti, recusandae. Assumenda, explicabo alias earum laborum aperiam consequuntur repellat doloribus dicta minima fuga tempora nostrum quia ea."
+    },
+    {
+        image: "/ongs-cadastradas.png",
+        fontImg: "https://umbusolidario.com/ongs",
+        textDescriptionOne: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sint eveniet iusto modi earum perferendis non minus? Architecto placeat reprehenderit necessitatibus fugiat, nesciunt quibusdam deleniti officia doloribus vel. Illum totam odit ad quisquam doloribus quam. Sint animi corporis assumenda voluptas autem quod ea similique illo iure ratione quam minima, modi dolores maiores sequi ut minus magnam aliquid, consectetur alias a praesentium iusto sapiente voluptatem? Blanditiis deleniti veritatis tempore modi numquam at totam mollitia asperiores tempora repellat nisi a pariatur quaerat quasi, voluptatibus iste sed? Sunt velit nemo totam at maiores, ipsum necessitatibus molestias hic quasi. Expedita, cumque ratione. Ducimus, esse!",
+        textDescriptionTwo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat quae temporibus assumenda velit sint voluptatem sit omnis magnam aliquid cum impedit, similique, accusamus itaque porro error praesentium repudiandae perferendis numquam vel. Deleniti, recusandae. Assumenda, explicabo alias earum laborum aperiam consequuntur repellat doloribus dicta minima fuga tempora nostrum quia ea."
+    },
+    {
+        image: "/ongs-cadastradas.png",
+        fontImg: "https://umbusolidario.com/ongs",
+        textDescriptionOne: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sint eveniet iusto modi earum perferendis non minus? Architecto placeat reprehenderit necessitatibus fugiat, nesciunt quibusdam deleniti officia doloribus vel. Illum totam odit ad quisquam doloribus quam. Sint animi corporis assumenda voluptas autem quod ea similique illo iure ratione quam minima, modi dolores maiores sequi ut minus magnam aliquid, consectetur alias a praesentium iusto sapiente voluptatem? Blanditiis deleniti veritatis tempore modi numquam at totam mollitia asperiores tempora repellat nisi a pariatur quaerat quasi, voluptatibus iste sed? Sunt velit nemo totam at maiores, ipsum necessitatibus molestias hic quasi. Expedita, cumque ratione. Ducimus, esse!",
+        textDescriptionTwo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat quae temporibus assumenda velit sint voluptatem sit omnis magnam aliquid cum impedit, similique, accusamus itaque porro error praesentium repudiandae perferendis numquam vel. Deleniti, recusandae. Assumenda, explicabo alias earum laborum aperiam consequuntur repellat doloribus dicta minima fuga tempora nostrum quia ea."
+    },
+    {
+        image: "/ongs-cadastradas.png",
+        fontImg: "https://umbusolidario.com/ongs",
+        textDescriptionOne: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sint eveniet iusto modi earum perferendis non minus? Architecto placeat reprehenderit necessitatibus fugiat, nesciunt quibusdam deleniti officia doloribus vel. Illum totam odit ad quisquam doloribus quam. Sint animi corporis assumenda voluptas autem quod ea similique illo iure ratione quam minima, modi dolores maiores sequi ut minus magnam aliquid, consectetur alias a praesentium iusto sapiente voluptatem? Blanditiis deleniti veritatis tempore modi numquam at totam mollitia asperiores tempora repellat nisi a pariatur quaerat quasi, voluptatibus iste sed? Sunt velit nemo totam at maiores, ipsum necessitatibus molestias hic quasi. Expedita, cumque ratione. Ducimus, esse!",
+        textDescriptionTwo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat quae temporibus assumenda velit sint voluptatem sit omnis magnam aliquid cum impedit, similique, accusamus itaque porro error praesentium repudiandae perferendis numquam vel. Deleniti, recusandae. Assumenda, explicabo alias earum laborum aperiam consequuntur repellat doloribus dicta minima fuga tempora nostrum quia ea."
+    },
+]
+
 export const petsformation = [
     {
         linkImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/American-akita.jpg/220px-American-akita.jpg",

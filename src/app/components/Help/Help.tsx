@@ -1,6 +1,7 @@
 import Image from "next/image"
-import { helpInformation } from "@/app/utils/utils"
 import Link from "next/link"
+
+import { helpInformation } from "@/app/utils/utils"
 
 const Help = () => {
   return (

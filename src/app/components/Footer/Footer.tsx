@@ -1,8 +1,10 @@
 import Image from 'next/image'
 import Link from 'next/link'
+
 import logo from '../../../../public/logo_pets.png'
 
 import { Bitter } from 'next/font/google'
+
 import SocialLinks from '../Links/SocialLinks'
 import PaginationLinks from '../Links/PaginationLinks'
 

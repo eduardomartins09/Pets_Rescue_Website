@@ -16,9 +16,6 @@ const Footer = () => {
       <div className='flex flex-col items-center gap-3'>
         <Image src={logo} width="200" height="100" alt='logo-website' />
         <SocialLinks />
-        <ul className='grid grid-cols-2 items-center justify-start sm:flex sm:divide-x-2 sm:divide-gray-500'>
-          <PaginationLinks />
-        </ul>
       </div>
     </footer>
   )

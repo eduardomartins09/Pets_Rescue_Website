@@ -21,19 +21,18 @@ const Navbar = () => {
 
   return (
     <header className={`${bitter.className} px-8 py-4 bg-black-transparent sticky top-0 z-50 w-full`}>
-        <nav className='text-white flex flex-col items-center sm:block'>
-            <div className='flex flex-col items-center sm:justify-between sm:flex-row'>
+        <nav className='text-white flex flex-col  sm:block'>
+            <div className='flex flex-col  sm:justify-between sm:flex-row'>
                 <div className='flex items-center gap-4'>
                     <AiOutlineMenu size={30} onClick={() => setNavOpen(!navOpen)} className="cursor-pointer" />
                     <Link href="/">
                         <Image src={logo} width={150} height={100} alt='logo-website' />
                     </Link>
                 </div>
-                <div className='hidden sm:block'>
+                <div className={`${navOpen ? 'hidden' : 'block'}`}>
                     <SocialLinks />
                 </div>
-            </div>
-            
+            </div>         
         </nav>
 
         {/* Menu */}

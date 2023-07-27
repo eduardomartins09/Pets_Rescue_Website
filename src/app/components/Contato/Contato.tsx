@@ -16,6 +16,13 @@ const Contato = () => {
             <label htmlFor="email" className="font-bold text-xl mb-1">Digite seu email</label>
             <input type="email" name="email" id="email" placeholder="email" className="p-2 border-2 border-blue-900 rounded-md mb-2 w-[100%]" autoComplete="on" />
           </div>
+          <div className="flex flex-col mb-2">
+            <label htmlFor="contato-conosco" className="font-bold text-xl mb-1">Deseja entrar em contato conosco como:</label>
+            <select name="contato-conosco" id="contato-conosco" className="p-2">
+              <option value="ong">Ong</option>
+              <option value="usuario">Usuario</option>
+            </select>
+          </div>
           <div className="flex flex-col">
             <label htmlFor="msg" className="font-bold text-xl mb-1">Digite sua mensagem</label>
             <textarea cols={22} rows={12} id="msg" placeholder="mensagem" className="p-2 border-2 border-blue-900 rounded-md mb-2" />

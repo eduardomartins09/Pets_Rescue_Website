@@ -5,7 +5,6 @@ import { useState, useContext } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
-import SocialLinks from '../Links/SocialLinks'
 import PaginationLinks from '../Links/PaginationLinks'
 
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
@@ -29,9 +28,6 @@ const Navbar = () => {
                         <Image src={logo} width={150} height={100} alt='logo-website' />
                     </Link>
                 </div>
-                <div className={`${navOpen ? 'hidden' : 'block'}`}>
-                    <SocialLinks />
-                </div>
             </div>         
         </nav>
 
@@ -47,13 +43,10 @@ const Navbar = () => {
             <h2 className='text-3xl text-white p-4 font-bold'>
                 Pet Rescue App
             </h2>
-            <nav className=''>  
-                <div className='px-4 mx-auto'>
-                    <SocialLinks />
-                </div> 
+            <nav>  
                 <div>
                     <h2 className="text-2xl font-semibold flex text-white px-4 mt-2">                               
-                        Navbar:                
+                        Menu:                
                     </h2>
                     <PaginationLinks />                   
                 </div>

@@ -36,8 +36,8 @@ const About = () => {
               <div className="my-4">
                 <h3 className="text-red-600 uppercase text-lg font-bold">Um pouco sobre a gente</h3>
                 <h2 className="text-text-blue uppercase text-3xl mt-4 font-bold">Nosso abrigo</h2>
-                <p className="text-gray-500 font-bold">{ong.textDescriptionOne}</p>
-                <p className="text-gray-600 font-bold">{ong.textDescriptionTwo}</p>
+                <p className="text-gray-500 text-lg font-bold">{ong.textDescriptionOne}</p>
+                <p className="text-gray-600 text-lg font-bold">{ong.textDescriptionTwo}</p>
               </div>
             </div>
           </SwiperSlide>

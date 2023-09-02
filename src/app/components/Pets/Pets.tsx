@@ -18,7 +18,7 @@ const Pets = () => {
       <h1 className="text-text-blue text-4xl mb-4 font-bold">Nossos Pets</h1>
       <Swiper
         modules={[Navigation]}
-        navigation={true}
+        navigation={true} 
         breakpoints={{
           0: {
             slidesPerView: 1.3,
